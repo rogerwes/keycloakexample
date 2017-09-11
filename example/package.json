@@ -1,0 +1,22 @@
+{
+  "name": "keycloakexample",
+  "version": "1.0.0",
+  "description": "Example client app using nodejs server and html.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerwes/keycloakexample.git"
+  },
+  "keywords": [
+    "keycloak"
+  ],
+  "author": "rogerwes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerwes/keycloakexample/issues"
+  },
+  "homepage": "https://github.com/rogerwes/keycloakexample#readme"
+}
