@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rogerwes/keycloakexample/issues"
   },
-  "homepage": "https://github.com/rogerwes/keycloakexample#readme"
+  "homepage": "https://github.com/rogerwes/keycloakexample#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
